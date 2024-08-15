@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampravinsubramaniyam&label=Profile%20views&color=0e75b6&style=flat" alt="iampravinsubramaniyam" /> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **chat application**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://iampravinsubramaniyam.github.io/Portfolio](https://iampravinsubramaniyam.github.io/Portfolio)
 
