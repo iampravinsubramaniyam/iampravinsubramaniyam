@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://praveensubramaniyam.netlify.app/)
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JueDNnNTNqdzVrdjVoamwzZWR6ZzJ1aGptMzdwbHNsOWNrdWcwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif)](https://praveensubramaniyam.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Praveen Subramaniyam</h1>
 <h3 align="center">Java Full Stack Developer | React · Spring Boot · SAP Fiori/UI5</h3>
